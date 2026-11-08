@@ -53,6 +53,15 @@ https://yap.ell.today
 
 <br>
 
+## Account Page (Logged in as a YAP Admin):
+
+![YAP (Yet Another PBX) Account Page 1](https://github.com/yet-another-pbx/yap/blob/main/image/user_account_page_1.jpeg)
+
+
+![YAP (Yet Another PBX) Account Page 2](https://github.com/yet-another-pbx/yap/blob/main/image/user_account_page_2.jpeg)
+
+<br>
+
 ## Customer Page (Logged in as a YAP Admin):
 
 ![YAP (Yet Another PBX) Customer Page 1](https://github.com/yet-another-pbx/yap/blob/main/image/customer_page_1.jpeg)
